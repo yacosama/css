@@ -1,2 +1,2 @@
 # css
-csss del template infox v 1 
+csss del template infox v 1  codeado por #yacosama
